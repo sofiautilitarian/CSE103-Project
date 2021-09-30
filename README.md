@@ -8,4 +8,4 @@ Examples:
 Input: a1 = -2, b1 = 4, c1 = 3, a2 = -6, b2 = 12, c2 = 9
 Output: The given straight lines are identical
 Input: a1 = 12, b1 = 3, c1 = 8, a2 = 7, b2 = -12, c2 = 0
-Output: The given straight lines are not identica
+Output: The given straight lines are not identical
